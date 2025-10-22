@@ -16,6 +16,16 @@ A Java-based application that monitors API health, logs results, and generates u
 - BufferedReader/Writer (File I/O)
 - Manual JSON parsing
 
+## Skills Demonstrated (DevOps Focus)
+
+- ✅ File I/O operations (logging, reading)
+- ✅ Exception handling (try-catch, try-with-resources)
+- ✅ HTTP API calls (REST)
+- ✅ Data parsing (manual JSON)
+- ✅ CLI applications
+- ✅ Code organization (methods, clean structure)
+- ✅ Git version control
+
 ## How to Run
 
 1. Clone the repository
